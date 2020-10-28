@@ -1,0 +1,48 @@
+      Year=  0
+Bob gifts to Tom
+Tom gifts to Dick
+Dick gifts to James
+James gifts to Sam
+Sam gifts to Harry
+Harry gifts to Bob 
+ 
+      Year=  1
+Bob gifts to Dick
+Tom gifts to James
+Dick gifts to Sam
+James gifts to Harry
+Sam gifts to Bob
+Harry gifts to Tom 
+ 
+      Year=  2
+Bob gifts to James
+Tom gifts to Sam
+Dick gifts to Harry
+James gifts to Bob
+Sam gifts to Tom
+Harry gifts to Dick 
+ 
+      Year=  3
+Bob gifts to Sam
+Tom gifts to Harry
+Dick gifts to Bob
+James gifts to Tom
+Sam gifts to Dick
+Harry gifts to James 
+ 
+      Year=  4
+Bob gifts to Harry
+Tom gifts to Bob
+Dick gifts to Tom
+James gifts to Dick
+Sam gifts to James
+Harry gifts to Sam 
+ 
+      Year=  5
+Bob gifts to Tom
+Tom gifts to Dick
+Dick gifts to James
+James gifts to Sam
+Sam gifts to Harry
+Harry gifts to Bob 
+ 
